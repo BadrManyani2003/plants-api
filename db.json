@@ -1,0 +1,327 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "test user",
+      "email": "testusermanyani@gmail.com",
+      "password": "testusermanyani@gmail.com"
+    },
+    {
+      "id": "2",
+      "username": "test user",
+      "email": "testusermanyani@gmail.com",
+      "password": "testusermanyani@gmail.com"
+    },
+    {
+      "id": "4bf7",
+      "username": "badr",
+      "email": "badr@gmail.com",
+      "password": "badr@gmail.com"
+    }
+  ],
+  "plants": [
+    {
+      "id": "1",
+      "name": "Monstera",
+      "description": "Une belle plante tropicale parfaite pour votre salon.",
+      "category": "Intérieur",
+      "size": "grande",
+      "price": 45,
+      "image": "http://localhost:5173/src/assets/img/plant.png",
+      "fav": true
+    },
+    {
+      "id": "2",
+      "name": "Cactus",
+      "description": "Facile à entretenir, parfait pour les bureaux.",
+      "category": "Grasse",
+      "size": "petite",
+      "price": 15,
+      "image": "http://localhost:5173/src/assets/img/plante2.png",
+      "fav": false
+    },
+    {
+      "id": "3",
+      "name": "Lavande",
+      "description": "Parfum apaisant pour les espaces extérieurs.",
+      "category": "Extérieur",
+      "size": "moyenne",
+      "price": 22,
+      "image": "http://localhost:5173/src/assets/img/plant.png",
+      "fav": true
+    },
+    {
+      "id": "4",
+      "name": "Monstera",
+      "description": "Une belle plante tropicale parfaite pour votre salon.",
+      "category": "Intérieur",
+      "size": "grande",
+      "price": 45,
+      "image": "http://localhost:5173/src/assets/img/plant.png",
+      "fav": true
+    },
+    {
+      "id": "5",
+      "name": "Cactus",
+      "description": "Facile à entretenir, parfait pour les bureaux.",
+      "category": "Grasse",
+      "size": "petite",
+      "price": 15,
+      "image": "http://localhost:5173/src/assets/img/plante2.png",
+      "fav": false
+    },
+    {
+      "id": "6",
+      "name": "Lavande",
+      "description": "Parfum apaisant pour les espaces extérieurs.",
+      "category": "Extérieur",
+      "size": "moyenne",
+      "price": 25,
+      "image": "http://localhost:5173/src/assets/img/Lavender.png",
+      "fav": false
+    },
+    {
+      "id": "7",
+      "name": "Monstera",
+      "description": "Une belle plante tropicale parfaite pour votre salon.",
+      "category": "Intérieur",
+      "size": "grande",
+      "price": 45,
+      "image": "http://localhost:5173/src/assets/img/plant.png",
+      "fav": false
+    },
+    {
+      "id": "8",
+      "name": "Cactus",
+      "description": "Facile à entretenir, parfait pour les bureaux.",
+      "category": "Grasse",
+      "size": "petite",
+      "price": 15,
+      "image": "http://localhost:5173/src/assets/img/plante2.png",
+      "fav": false
+    },
+    {
+      "id": "9",
+      "name": "Lavande",
+      "description": "Parfum apaisant pour les espaces extérieurs.",
+      "category": "Extérieur",
+      "size": "moyenne",
+      "price": 25,
+      "image": "http://localhost:5173/src/assets/img/Lavender.png",
+      "fav": false
+    },
+    {
+      "id": "3b89",
+      "name": "tesrt",
+      "price": 8,
+      "category": "inter",
+      "size": "",
+      "image": "http://localhost:5173/src/assets/img/3bfc16070bcd1f265898b39b341b634e.png",
+      "description": "test test",
+      "fav": true
+    },
+    {
+      "id": "5360",
+      "name": "test",
+      "price": 7,
+      "category": "inter",
+      "size": "grande",
+      "image": "http://localhost:5173/src/assets/img/plant.png",
+      "description": "tttt ttttt ttt tt",
+      "fav": false
+    }
+  ],
+  "promotions": [
+    {
+      "id": "1",
+      "title": "Offre spéciale : -40%",
+      "description": "Profitez de 40% de réduction pour tout achat de plus de 5 plantes totalisant plus de 1000 DH.",
+      "min_quantity": 5,
+      "min_total": 1000,
+      "discount_percent": 40,
+      "image": "http://localhost:5173/src/assets/img/plant.png"
+    },
+    {
+      "id": "2",
+      "title": "Remise de printemps",
+      "description": "20% de réduction sur toutes les plantes d’extérieur pendant le mois d’avril.",
+      "category": "Extérieur",
+      "discount_percent": 20,
+      "valid_until": "2025-04-30",
+      "image": "http://localhost:5173/src/assets/img/Lavender.png"
+    },
+    {
+      "id": "1",
+      "title": "Offre spéciale : -40%",
+      "description": "Profitez de 40% de réduction pour tout achat de plus de 5 plantes totalisant plus de 1000 DH.",
+      "min_quantity": 5,
+      "min_total": 1000,
+      "discount_percent": 40,
+      "image": "http://localhost:5173/src/assets/img/plant.png"
+    }
+  ],
+  "tips": [
+    {
+      "id": "1",
+      "icon": "bx bx-sun",
+      "title": "Lumière naturelle",
+      "description": "Placez vos plantes près des fenêtres orientées est ou sud pour une lumière douce. Évitez le soleil direct.",
+      "img": "http://localhost:5173/src/assets/img/light.jpg"
+    },
+    {
+      "id": "2",
+      "icon": "bx bx-water",
+      "title": "Arrosage maîtrisé",
+      "description": "Vérifiez toujours le sol avant d’arroser. Trop d’eau est l’erreur la plus fréquente.",
+      "img": "http://localhost:5173/src/assets/img/water.jpg"
+    },
+    {
+      "id": "3",
+      "icon": "bx bx-leaf",
+      "title": "Choisir la bonne plante",
+      "description": "Optez pour des plantes adaptées à votre espace et à votre emploi du temps.",
+      "img": "http://localhost:5173/src/assets/img/plante.jpg"
+    },
+    {
+      "id": "4",
+      "icon": "bx bx-shield",
+      "title": "Protégez vos plantes",
+      "description": "Évitez les courants d’air et surveillez les parasites régulièrement.",
+      "img": "http://localhost:5173/src/assets/img/protection.jpg"
+    },
+    {
+      "id": "5",
+      "icon": "bx bx-transfer-alt",
+      "title": "Rempotage",
+      "description": "Rempotez vos plantes tous les 1 à 2 ans pour leur offrir plus d’espace et de nutriments.",
+      "img": "http://localhost:5173/src/assets/img/rempotage.jpg"
+    },
+    {
+      "id": "6",
+      "icon": "bx bx-spray-can",
+      "title": "Nettoyage des feuilles",
+      "description": "Dépoussiérez les feuilles pour qu’elles respirent mieux et absorbent plus de lumière.",
+      "img": "http://localhost:5173/src/assets/img/cleaning.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "de09",
+      "userId": 1,
+      "items": [
+        {
+          "id": "1",
+          "name": "Monstera",
+          "category": "Intérieur",
+          "price": 45,
+          "image": "http://localhost:5173/src/assets/img/plant.png",
+          "quantity": 1
+        },
+        {
+          "id": "6",
+          "name": "Lavande",
+          "category": "Extérieur",
+          "price": 25,
+          "image": "http://localhost:5173/src/assets/img/Lavender.png",
+          "quantity": 1
+        },
+        {
+          "id": "5",
+          "name": "Cactus",
+          "category": "Grasse",
+          "price": 15,
+          "image": "http://localhost:5173/src/assets/img/plante2.png",
+          "quantity": 1
+        },
+        {
+          "id": "7",
+          "name": "Monstera",
+          "category": "Intérieur",
+          "price": 45,
+          "image": "http://localhost:5173/src/assets/img/plant.png",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "1746603872261",
+      "userId": "1",
+      "status": "en attente",
+      "address": "test cmd",
+      "items": [
+        {
+          "productId": "1",
+          "productName": "Monstera",
+          "quantity": 1,
+          "totalPrice": "45.00"
+        },
+        {
+          "productId": "2",
+          "productName": "Cactus",
+          "quantity": 1,
+          "totalPrice": "15.00"
+        },
+        {
+          "productId": "3",
+          "productName": "Lavande",
+          "quantity": 2,
+          "totalPrice": "50.00"
+        }
+      ],
+      "totalAmount": "110.00",
+      "createdAt": "2025-05-07T07:44:32.261Z"
+    },
+    {
+      "id": "1747064180287",
+      "userId": "4bf7",
+      "status": "en cours",
+      "address": "casablanca",
+      "items": [
+        {
+          "productId": "4",
+          "productName": "Monstera",
+          "quantity": 2,
+          "totalPrice": "90.00"
+        },
+        {
+          "productId": "3",
+          "productName": "Lavande",
+          "quantity": 1,
+          "totalPrice": "25.00"
+        }
+      ],
+      "totalAmount": "115.00",
+      "createdAt": "2025-05-12T15:36:20.288Z"
+    },
+    {
+      "id": 1747123406610,
+      "userId": "4bf7",
+      "status": "en attente",
+      "address": "ggttff",
+      "items": [
+        {
+          "productId": "1",
+          "productName": "Monstera",
+          "quantity": 1,
+          "totalPrice": "45.00"
+        },
+        {
+          "productId": "2",
+          "productName": "Cactus",
+          "quantity": 1,
+          "totalPrice": "15.00"
+        },
+        {
+          "productId": "3",
+          "productName": "Lavande",
+          "quantity": 1,
+          "totalPrice": "25.00"
+        }
+      ],
+      "totalAmount": "85.00",
+      "createdAt": "2025-05-13T08:03:26.610Z"
+    }
+  ]
+}
