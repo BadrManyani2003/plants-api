@@ -26,8 +26,8 @@
       "description": "Une belle plante tropicale parfaite pour votre salon.",
       "category": "Intérieur",
       "size": "grande",
-      "price": 45,
-      "image": "http://localhost:5173/src/assets/img/plant.png",
+      "price": 50,
+      "image": "/assets/img/plant.png",
       "fav": true
     },
     {
@@ -37,7 +37,7 @@
       "category": "Grasse",
       "size": "petite",
       "price": 15,
-      "image": "http://localhost:5173/src/assets/img/plante2.png",
+      "image": "/assets/img/plante2.png",
       "fav": false
     },
     {
@@ -47,7 +47,7 @@
       "category": "Extérieur",
       "size": "moyenne",
       "price": 22,
-      "image": "http://localhost:5173/src/assets/img/plant.png",
+      "image": "/assets/img/plant.png",
       "fav": true
     },
     {
@@ -57,7 +57,7 @@
       "category": "Intérieur",
       "size": "grande",
       "price": 45,
-      "image": "http://localhost:5173/src/assets/img/plant.png",
+      "image": "/assets/img/plant.png",
       "fav": true
     },
     {
@@ -67,7 +67,7 @@
       "category": "Grasse",
       "size": "petite",
       "price": 15,
-      "image": "http://localhost:5173/src/assets/img/plante2.png",
+      "image": "/assets/img/plante2.png",
       "fav": false
     },
     {
@@ -77,7 +77,7 @@
       "category": "Extérieur",
       "size": "moyenne",
       "price": 25,
-      "image": "http://localhost:5173/src/assets/img/Lavender.png",
+      "image": "/assets/img/Lavender.png",
       "fav": false
     },
     {
@@ -87,7 +87,7 @@
       "category": "Intérieur",
       "size": "grande",
       "price": 45,
-      "image": "http://localhost:5173/src/assets/img/plant.png",
+      "image": "/assets/img/plant.png",
       "fav": false
     },
     {
@@ -97,7 +97,7 @@
       "category": "Grasse",
       "size": "petite",
       "price": 15,
-      "image": "http://localhost:5173/src/assets/img/plante2.png",
+      "image": "/assets/img/plante2.png",
       "fav": false
     },
     {
@@ -107,7 +107,7 @@
       "category": "Extérieur",
       "size": "moyenne",
       "price": 25,
-      "image": "http://localhost:5173/src/assets/img/Lavender.png",
+      "image": "/assets/img/Lavender.png",
       "fav": false
     },
     {
@@ -116,7 +116,7 @@
       "price": 8,
       "category": "inter",
       "size": "",
-      "image": "http://localhost:5173/src/assets/img/3bfc16070bcd1f265898b39b341b634e.png",
+      "image": "/assets/img/plante2.png",
       "description": "test test",
       "fav": true
     },
@@ -126,7 +126,7 @@
       "price": 7,
       "category": "inter",
       "size": "grande",
-      "image": "http://localhost:5173/src/assets/img/plant.png",
+      "image": "/assets/img/plant.png",
       "description": "tttt ttttt ttt tt",
       "fav": false
     }
@@ -139,7 +139,7 @@
       "min_quantity": 5,
       "min_total": 1000,
       "discount_percent": 40,
-      "image": "http://localhost:5173/src/assets/img/plant.png"
+      "image": "/assets/img/plant.png"
     },
     {
       "id": "2",
@@ -148,7 +148,7 @@
       "category": "Extérieur",
       "discount_percent": 20,
       "valid_until": "2025-04-30",
-      "image": "http://localhost:5173/src/assets/img/Lavender.png"
+      "image": "/assets/img/Lavender.png"
     },
     {
       "id": "1",
@@ -157,7 +157,7 @@
       "min_quantity": 5,
       "min_total": 1000,
       "discount_percent": 40,
-      "image": "http://localhost:5173/src/assets/img/plant.png"
+      "image": "/assets/img/plant.png"
     }
   ],
   "tips": [
@@ -166,42 +166,42 @@
       "icon": "bx bx-sun",
       "title": "Lumière naturelle",
       "description": "Placez vos plantes près des fenêtres orientées est ou sud pour une lumière douce. Évitez le soleil direct.",
-      "img": "http://localhost:5173/src/assets/img/light.jpg"
+      "img": "/assets/img/light.jpg"
     },
     {
       "id": "2",
       "icon": "bx bx-water",
       "title": "Arrosage maîtrisé",
       "description": "Vérifiez toujours le sol avant d’arroser. Trop d’eau est l’erreur la plus fréquente.",
-      "img": "http://localhost:5173/src/assets/img/water.jpg"
+      "img": "/assets/img/water.jpg"
     },
     {
       "id": "3",
       "icon": "bx bx-leaf",
       "title": "Choisir la bonne plante",
       "description": "Optez pour des plantes adaptées à votre espace et à votre emploi du temps.",
-      "img": "http://localhost:5173/src/assets/img/plante.jpg"
+      "img": "/assets/img/plante.jpg"
     },
     {
       "id": "4",
       "icon": "bx bx-shield",
       "title": "Protégez vos plantes",
       "description": "Évitez les courants d’air et surveillez les parasites régulièrement.",
-      "img": "http://localhost:5173/src/assets/img/protection.jpg"
+      "img": "/assets/img/protection.jpg"
     },
     {
       "id": "5",
       "icon": "bx bx-transfer-alt",
       "title": "Rempotage",
       "description": "Rempotez vos plantes tous les 1 à 2 ans pour leur offrir plus d’espace et de nutriments.",
-      "img": "http://localhost:5173/src/assets/img/rempotage.jpg"
+      "img": "/assets/img/rempotage.jpg"
     },
     {
       "id": "6",
       "icon": "bx bx-spray-can",
       "title": "Nettoyage des feuilles",
       "description": "Dépoussiérez les feuilles pour qu’elles respirent mieux et absorbent plus de lumière.",
-      "img": "http://localhost:5173/src/assets/img/cleaning.jpg"
+      "img": "/assets/img/cleaning.jpg"
     }
   ],
   "cart": [
@@ -210,35 +210,11 @@
       "userId": 1,
       "items": [
         {
-          "id": "1",
+          "id": "4",
           "name": "Monstera",
           "category": "Intérieur",
           "price": 45,
-          "image": "http://localhost:5173/src/assets/img/plant.png",
-          "quantity": 1
-        },
-        {
-          "id": "6",
-          "name": "Lavande",
-          "category": "Extérieur",
-          "price": 25,
-          "image": "http://localhost:5173/src/assets/img/Lavender.png",
-          "quantity": 1
-        },
-        {
-          "id": "5",
-          "name": "Cactus",
-          "category": "Grasse",
-          "price": 15,
-          "image": "http://localhost:5173/src/assets/img/plante2.png",
-          "quantity": 1
-        },
-        {
-          "id": "7",
-          "name": "Monstera",
-          "category": "Intérieur",
-          "price": 45,
-          "image": "http://localhost:5173/src/assets/img/plant.png",
+          "image": "/assets/img/plant.png",
           "quantity": 1
         }
       ]
@@ -296,7 +272,7 @@
       "createdAt": "2025-05-12T15:36:20.288Z"
     },
     {
-      "id": 1747123406610,
+      "id": "1747123406610",
       "userId": "4bf7",
       "status": "en attente",
       "address": "ggttff",
